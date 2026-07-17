@@ -4,8 +4,7 @@ Run AI coding agents — [Claude Code](https://claude.com/claude-code),
 [Cline](https://cline.bot),
 [Codex](https://github.com/openai/codex),
 [OpenCode](https://github.com/sst/opencode),
-[Command-Code](https://github.com/commandcode-ai) — each in its own tmux
-session, then **list, preview, and jump between them** from one popup.
+[Command-Code](https://github.com/commandcode-ai) — on tmux session.
 
 ![demo](docs/CleanShot%202026-07-18%20at%2004.33.00.gif)
 
@@ -97,8 +96,4 @@ set -g @agent_codex_args        ''
 
 ## Credits
 
-Originally inspired by [craftzdog/tmux-claude-session-manager](https://github.com/craftzdog/tmux-claude-session-manager).
-
-## License
-
-[MIT](LICENSE)
+Originally forked from [craftzdog/tmux-claude-session-manager](https://github.com/craftzdog/tmux-claude-session-manager).
