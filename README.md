@@ -6,7 +6,7 @@ Run AI coding agents — [Claude Code](https://claude.com/claude-code),
 [OpenCode](https://github.com/sst/opencode),
 [Command-Code](https://github.com/commandcode-ai) — on tmux session.
 
-![demo](docs/CleanShot%202026-07-18%20at%2004.33.00.gif)
+<img width="800" height="462" alt="CleanShot 2026-07-18 at 05 30 24" src="https://github.com/user-attachments/assets/e88ea1df-4b9f-49db-845e-193094f76528" />
 
 - `prefix` + `y` — launch an agent for the current directory
 - `prefix` + `u` — picker with live preview and status (`working`/`waiting`/`idle`)
